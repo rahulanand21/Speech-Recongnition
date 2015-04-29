@@ -1,0 +1,8 @@
+c:\users\rahulanand21\documents\visual studio 2010\Projects\Speech Recongnition\Speech Recongnition\bin\Debug\Speech Recongnition.exe
+c:\users\rahulanand21\documents\visual studio 2010\Projects\Speech Recongnition\Speech Recongnition\bin\Debug\Speech Recongnition.pdb
+c:\users\rahulanand21\documents\visual studio 2010\Projects\Speech Recongnition\Speech Recongnition\obj\x86\Debug\Speech_Recongnition.Form1.resources
+c:\users\rahulanand21\documents\visual studio 2010\Projects\Speech Recongnition\Speech Recongnition\obj\x86\Debug\Speech_Recongnition.Properties.Resources.resources
+c:\users\rahulanand21\documents\visual studio 2010\Projects\Speech Recongnition\Speech Recongnition\obj\x86\Debug\Speech Recongnition.csproj.GenerateResource.Cache
+c:\users\rahulanand21\documents\visual studio 2010\Projects\Speech Recongnition\Speech Recongnition\obj\x86\Debug\Speech Recongnition.exe
+c:\users\rahulanand21\documents\visual studio 2010\Projects\Speech Recongnition\Speech Recongnition\obj\x86\Debug\Speech Recongnition.pdb
+C:\Users\rahulanand21\Documents\Visual Studio 2010\Projects\Speech Recongnition\Speech Recongnition\obj\x86\Debug\Speech Recongnition.csprojResolveAssemblyReference.cache
